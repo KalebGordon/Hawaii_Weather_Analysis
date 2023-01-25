@@ -1,7 +1,7 @@
-# Surfs_Up
+# Hawaii_Weather_Analysis
 
 ## Overview
-After discovering our love for surfing, we have decided to plan a move to Hawaii with a prospect of opening up a Surf and Shake shop. Surf 'n Shake will serve surfboards and ice cream to locals, tourists, and residents. Our investor, W. Avy, has one concern about our plan to open. This concern involves the weather forecast, as another shop was previously shut down due to inclement weather. Using our analysis skills, we are investigating the weather for the area using a weather data set. 
+After discovering our love for surfing, we have decided to plan a move to Hawaii with a prospect of opening up a Surf and Shake shop. Surf 'n Shake will serve surfboards and ice cream to locals, tourists, and residents. Our investor has one concern about our plan to open. This concern involves the weather forecast, as another shop was previously shut down due to inclement weather. Using our analysis skills, we are investigating the weather for the area using a weather data set. 
 
 ## Results
 Our results showed multiple differences between the weather in June versus December. 
